@@ -1,0 +1,36 @@
+ebook_metadata:
+  title: ༄༅། །ཕྱག་རྒྱ་ཆེན་པོ་ཡི་གེ་བཞི་པའི་དགོངས་དོན་སྙིང་པོར་དྲིལ་བ་བྱིན་རླབས་བུམ་བཟང་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། མཁས་གྲུབ་ཆེན་པོ་རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
+  sku: TSD-TSE-04
+  layers:
+  - book_title
+  - author
+  - chapter_title
+web_metadata:
+  title:
+    en: The Blessed Vase:The Essential Meaning of the Four Syllables of Mahamudra
+    bo: ཕྱག་རྒྱ་ཆེན་པོ་ཡི་གེ་བཞི་པའི་དགོངས་དོན་སྙིང་པོར་དྲིལ་བ་བྱིན་རླབས་བུམ་བཟང་བཞུགས་སོ།
+  collection:
+    en: Tsele Natsok Rangdrol Series–  Book 4
+    bo: རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།–  དེབ། ༤
+  author:
+    en: Tsele Natsok Rangdrol
+    bo: རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
+  pusblisher:
+    en: Tsadra Foundation Publishing
+    bo: ཙཱ་འདྲ་ཐེབས་རྩ་ཚོགས་པ།
+  sku: TSD-TSE-04
+  category:
+    en: Mahamudra
+    bo: ཕྱག་རྒྱ་ཆེན་པོ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: TSD-TSE-04.epub
+  description:
+    en: ''
+    bo: ''
