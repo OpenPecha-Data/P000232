@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000232
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཕྱག་རྒྱ་ཆེན་པོ་ཡི་གེ་བཞི་པའི་དགོངས་དོན་སྙིང་པོར་དྲིལ་བ་བྱིན་རླབས་བུམ་བཟང་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། མཁས་གྲུབ་ཆེན་པོ་རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
-  sku: TSD-TSE-04
   layers:
   - book_title
   - author
   - chapter_title
+  id: TSD-TSE-04
 web_metadata:
   title:
     en: The Blessed Vase:The Essential Meaning of the Four Syllables of Mahamudra
